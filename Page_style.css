@@ -1,0 +1,66 @@
+*{
+  font-family: trebuchet MS, sans-serif;
+}
+
+.logo{
+  text-align: center;
+  display: block;
+  height: 100%;
+}
+
+.logo .header{
+  background-color: #081621;
+  padding: 10px;
+}
+
+.logo .header .logo-link{
+  margin: 0 20px;
+}
+
+.nav-link{
+  color: #222222;
+  text-decoration: none;
+  margin: 10px;
+}
+
+.nav-link{
+  padding: 20px;
+}
+
+.nav-link a{
+  color: #e5330b;
+}
+
+.product{
+  margin: 0 50px;
+  padding: 0 20px;
+  display: inline-block;
+}
+
+
+.specification{
+  width: 80%;
+  margin-left: 100px;
+  padding-left: 50px;
+  text-align: left;
+}
+
+.tr{
+  padding: 10px 20px;
+  line-height: 22px;
+  border-bottom: 1px;
+  border-style: solid #ecedef;
+  width: 80%;
+}
+
+.display{
+  font-size: 20px;
+  background-color: #d0d7f073;
+  color: #3749bb;
+  display: table-row;
+  width: 80%;  
+}
+
+.display .tr{
+  border-radius: 5px;
+}
